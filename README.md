@@ -9,5 +9,6 @@ virheitä.
 
 
 
-Avaa binderissa
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jukkasor/PythonOhjelmointi/master)
+Binder toimii selaimessa.
+
+Avaa b![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jukkasor/PythonOhjelmointi/master)
