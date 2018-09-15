@@ -7,9 +7,9 @@ HUOM!
 Materiaalin teko on vielä kesken, joten se sisältää paljon
 virheitä.
 
-HUOM!
 
-	HUOM!
+
+	
 
 	Binder toimii selaimessa.
 
