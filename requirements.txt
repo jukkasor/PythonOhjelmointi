@@ -4,3 +4,4 @@ matplotlib
 scipy
 folium
 BeatifulSoup
+request
