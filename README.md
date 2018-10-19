@@ -14,3 +14,6 @@ virheitä.
 	Binder toimii selaimessa.
 
 Avaa [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jukkasor/PythonOhjelmointi/master)
+
+
+Huom! WebScarping-tutoriaali ei toimi binderissä.
