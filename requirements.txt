@@ -3,5 +3,5 @@ pandas
 matplotlib
 scipy
 folium
-BeautifulSoup
+from bs4 import BeautifulSoup
 request
